@@ -1,7 +1,6 @@
 # Moto GP
 
-![preview](./.github/preview.png)
-
+![preview_readme](./assets/preview_readme.png)
 > Moto GP
 
 🏍 Projeto criado para aprendizagem em HTML e CSS 🏍
