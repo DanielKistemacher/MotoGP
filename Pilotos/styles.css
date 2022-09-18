@@ -16,9 +16,8 @@ section ul {
 }
 
 body {
-    background-position: top center;
     background-size: 100% auto;
-    background-repeat: no-repeat;
+    background-repeat:inherit ;
     background-image: linear-gradient(90deg, #010102 0%, #686b70 50.52%,  #ffffff 100% );
 }
 
@@ -29,17 +28,12 @@ body * {
 
 header {
     padding-top: 32px;
-    height: calc(120px + 32px);
+    height: calc(120px + 60px);
     border-radius: 50%;
 }
 
-
-header div:hover{
-    transform: scale(1.1);
-}
-
 header div {
-    width: 120px;
+    width: 190px;
     margin: auto;
     background-image: linear-gradient(90deg, #db0c4c 0%, #686b70 50.52%,  #ffffff 100% );
     border-radius: 50%;
@@ -97,26 +91,12 @@ section ul li {
     transition: transform .4s;
 }
 
-section ul li:hover {
-    transform: scale(1.1);
-}
-
-.pilotos-list img {
-    width: 130px;
+.imagens-pessoais img {
+    width: 50%px;
     border-radius: 8px;
 }
 
-.equipes-list img {
-    width: 150px;
-    border-radius: 10px;
-    border: 1px solid #443e54;
-}
 
-.midia-list img {
-    width: 90px;
-    border-radius: 50%;
-    border: 1px solid #443e54;
-}
 
 /* =============== ANIMAÇÃO =============== */
 
