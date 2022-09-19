@@ -91,17 +91,13 @@ section ul {
     margin-top: 24px;
 }
 
-section li:hover{
-    transform: scale(1.1);
-}
-
 section ul li {
     width: 150px;
     transition: transform .4s;
 }
 
 .imagens-pessoais img {
-    width: 200px;
+    width: 100%;
     border-radius: 8px;
 }
 
@@ -109,6 +105,11 @@ section ul li {
     width: 25px;
     float: right;
 }
+
+a {
+    color: #ffffff;
+}
+
 
 /* =============== ANIMAÇÃO =============== */
 
