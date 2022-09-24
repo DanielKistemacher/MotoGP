@@ -75,6 +75,10 @@ section div {
     border-radius: 8px;
 }
 
+section div img:hover{
+    transform: scale(1.1);
+}
+
 section h2 {
     letter-spacing: -0.47px;
 }
@@ -126,6 +130,10 @@ main section:nth-child(1) {
 }
 
 main section:nth-child(2) {
+    animation-delay: .4s;
+}
+
+main section:nth-child(3) {
     animation-delay: .4s;
 }
 
