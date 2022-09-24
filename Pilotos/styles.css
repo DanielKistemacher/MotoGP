@@ -110,8 +110,20 @@ section ul li {
     float: right;
 }
 
+.flag{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: -7px;
+}
+
 a {
     color: #ffffff;
+}
+
+svg {
+    position: absolute;
+    margin-top: 02px;
+    margin-left: 10px;
 }
 
 
