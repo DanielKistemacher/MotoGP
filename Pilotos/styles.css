@@ -110,7 +110,7 @@ section ul li {
     float: right;
 }
 
-.flag{
+.flag {
     position: absolute;
     margin-left: 10px;
     margin-top: -7px;
@@ -126,6 +126,9 @@ svg {
     margin-left: 10px;
 }
 
+.insta:hover {
+    transform: scale(1.1);
+}
 
 /* =============== ANIMAÇÃO =============== */
 
