@@ -13,7 +13,7 @@
 - CSS
 - Git e GitHub
 
-## ⚠ Informações do proejto
+## ⚠ Informações do projeto
 
 - Página inicial contendo: Pilotos, Equipes e Mídia.
 - Ao clicar na imagem do piloto é aberto a página com os dados e imagens.
