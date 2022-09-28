@@ -13,5 +13,15 @@
 - CSS
 - Git e GitHub
 
+## ⚠ Informações do proejto
+
+- Página inicial contendo: Pilotos, Equipes e Mídia.
+- Ao clicar na imagem do piloto é aberto a página com os dados e imagens.
+- Ao clicar na imagem da equipe é aberto a página com os pilotos e informações da equipe.
+- Ao clicar nas imagens de mídia é aberto você será direcionado para a página clicada.
+
+- Na página do piloto, além das informações pessoais é possível acesasr o Instagram e a página da equipe.
+- Na página da equipe, além das informações é possível acessar as páginas dos pilotos.
+
 ## ✉ Contato
 danielkistemacher@gmail.com
